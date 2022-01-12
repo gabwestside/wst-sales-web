@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabriel.moura.FITBANK\\Documents\\CodingDocs\\GitClones\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj": {}
+    "C:\\Users\\Gabriel\\Documents\\GitClones\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabriel.moura.FITBANK\\Documents\\CodingDocs\\GitClones\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj": {
+    "C:\\Users\\Gabriel\\Documents\\GitClones\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\CodingDocs\\GitClones\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel\\Documents\\GitClones\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
         "projectName": "SalesWebMVC",
-        "projectPath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\CodingDocs\\GitClones\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
-        "packagesPath": "C:\\Users\\gabriel.moura.FITBANK\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\CodingDocs\\GitClones\\SalesWebMVC\\SalesWebMVC\\obj\\",
+        "projectPath": "C:\\Users\\Gabriel\\Documents\\GitClones\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
+        "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gabriel\\Documents\\GitClones\\SalesWebMVC\\SalesWebMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gabriel.moura.FITBANK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -65,12 +65,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.21, 3.1.21]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -79,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }
