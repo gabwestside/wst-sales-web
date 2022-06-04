@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\gabriel.moura.FITBANK\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\gabriel.moura.FITBANK\\.nuget\\packages"
+      "C:\\Users\\Gabriel\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Gabriel\\.nuget\\packages"
     ]
   }
 }
